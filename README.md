@@ -2,9 +2,11 @@
 ![image](https://github.com/user-attachments/assets/d03b4f47-5535-4016-9e44-72879dbe9663)
 
 #Business Problem
+
 One important problem in e-commerce is the correct calculation of product ratings after sales. Solving this problem will provide more customer satisfaction on the e-commerce site, help sellers' products stand out, and ensure a smooth shopping experience for buyers. Another problem is the proper ranking of product reviews. Misleading reviews can directly affect a product's sales, causing both product loss and customer dissatisfaction. Solving these two main problems will help e-commerce sites and sellers increase their sales while allowing customers to complete their shopping journey smoothly.
 
 #Dataset Story
+
 This dataset contains product data from Amazon, including product categories and various metadata. It includes user ratings and reviews for the product with the most reviews in the Electronics category.
 
 Variables:
